@@ -125,7 +125,8 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(40, 58, 90, 0.9);
+  /* background: rgba(40, 58, 90, 0.9); */
+  background: #00A7B5;
 }
 
 #header .logo {
@@ -192,7 +193,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #47b2e4;
+  color: #312D4A;
 }
 
 .navbar .getstarted,
@@ -396,7 +397,8 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #37517e;
+  /* background: #37517e; */
+  background:#00A7B5;
 }
 
 #hero .container {
